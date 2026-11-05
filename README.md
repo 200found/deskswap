@@ -11,7 +11,7 @@ main link: https://github.com/200found/deskswap
 - optionally, python 3 or later and qt to use the gui history editor
 
 ## installing
-after meeting the dependencies, move the script and gui script to a dedicated deskswap folder somewhere in your preferred config or documents path, and chmod 755 them to be executable.
+after meeting the dependencies, move the bash script and gui python script to a dedicated deskswap folder somewhere in your preferred config or documents path, and chmod 755 them to be executable.
 
 on first run, the script will create a history file to cycle back and forth through. deskswap can add and remove directories from that history, but it's just a plain text file, so you can edit it by hand really easily. or use the python script gui i used microsoft chatbbb to make (i know bash but not python/qt).
 
